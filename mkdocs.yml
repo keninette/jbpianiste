@@ -1,0 +1,46 @@
+site_name: Cours de JBPianiste (Non officiel)
+nav:
+  - 🏡 Home: index.md
+  - 📚 Glossaire: glossaire.md
+  - 🎹 Morceaux: morceaux/index.md
+theme:
+  name: material
+  language: fr
+  font:
+    text: Inconsolata
+    code: Inconsolata
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.ico
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: yellow
+  features:
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+extra_css: [assets/jbpianiste.css]
+plugins:
+  - offline
+  - search
+  - tags
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
