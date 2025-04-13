@@ -77,44 +77,14 @@ article p:first-of-type a {
 }
 
 /******************** Cards ********************/
-.grid.cards li {
+.grid.cards > ul:first-of-type > li {
     border-left: 3px solid !important;
 }
 
-.grid.cards li:first-of-type {
-    border-left-color: var(--color-blue) !important;
-}
-
-.grid.cards li:first-of-type p:first-of-type {
-    font-weight: normal;
-}
-
-.grid.cards li:first-of-type p:first-of-type {
-    color: var(--color-blue) !important;
-}
-
-.grid.cards li:nth-of-type(2) {
-    border-left-color: var(--color-red) !important;
-}
-
-.grid.cards li:nth-of-type(2) p:first-of-type {
+.grid.cards li:nth-of-type(2) > p:not(:first-child) .twemoji {
     color: var(--color-red) !important;
 }
 
-
-.grid.cards li:nth-of-type(2) .twemoji {
-    color: var(--color-red) !important;
-}
-
-
-.grid.cards li:nth-of-type(3) {
-    border-left-color: var(--color-yellow) !important;
-
-}
-
-.grid.cards li:nth-of-type(3) p:first-of-type {
-    color: var(--color-yellow) !important;
-}
 
 /******************** Nav ********************/
 .md-sidebar:not(.md-sidebar--secondary) {

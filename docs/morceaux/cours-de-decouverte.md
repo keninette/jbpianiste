@@ -29,7 +29,7 @@ Exercices d'improvisation autour des accords du canon de [Johann Pachelbel](http
 
     ---
 
-    [:fontawesome-brands-youtube:{ .lg .middle } Le cannon de Pachelbel sur Youtube](https://www.youtube.com/watch?v=9nX_ReyaetE)
+    :fontawesome-brands-youtube:{ .lg .middle } [Le cannon de Pachelbel sur Youtube](https://www.youtube.com/watch?v=9nX_ReyaetE)
 
 -   :fontawesome-solid-table-cells-large:{ .lg .middle } __Grille d'accords__
 
@@ -39,6 +39,12 @@ Exercices d'improvisation autour des accords du canon de [Johann Pachelbel](http
     |-----|------|-----|------|
     | DoM | SolM | Lam | Mim  |
     | FaM | DoM  | FaM | SolM |
+
+-   :fontawesome-solid-table-cells-large:{ .lg .middle } __Ressources (coming soon)__
+
+    ---
+
+    Coming soon
 
 </div>
 

@@ -28,7 +28,7 @@ tags:
 
     ---
 
-    [:fontawesome-brands-youtube:{ .lg .middle } The other promise sur Youtube](https://www.youtube.com/watch?v=s9XljBWGrRQ)
+    :fontawesome-brands-youtube:{ .lg .middle } [The other promise sur Youtube](https://www.youtube.com/watch?v=s9XljBWGrRQ)
 
 -   :fontawesome-solid-table-cells-large:{ .lg .middle } __Construction du morceau__
 
@@ -39,24 +39,79 @@ tags:
     
     #### A : 
 
-    | Main Gauche                      | Main droite    |
-    |----------------------------------|----------------|
-    | Octave de Ré                     | Fa - Sib - La  |
-    | Octave de Ré                     | Mi - Sib - La  |
-    | Octave de Ré                     | Sol - Sib - La |
-    | Octave de Ré                     | Fa - Sib - La  |
-    | Octave de Ré                     | La - Ré - Do   |
-    | Octave de Ré                     | Sol - Sib - La |
-    | Octave de Ré                     | Sib - Mi - Ré  |
-    | Octave de Ré                     | Ré - La - Sol  |
+    | ✋ Main Gauche | 🤚 Main droite    |
+    |---------------|----------------|
+    | Octave de Ré  | Fa - Sib - La  |
+    | Octave de Ré  | Mi - Sib - La  |
+    | Octave de Ré  | Sol - Sib - La |
+    | Octave de Ré  | Fa - Sib - La  |
+    | Octave de Ré  | La - Ré - Do   |
+    | Octave de Ré  | Sol - Sib - La |
+    | Octave de Ré  | Sib - Mi - Ré  |
+    | Octave de Ré  | Ré - La - Sol  |
 
     #### A' : 
       
-    - __Main gauche__ : idem mais le 3ème et 7ème octave de Ré sont remplacés par un arpège de Solm ou un octave de Sol
-    - __Main droite__ : idem une octave plus haut
+    - __✋ Main gauche__ : idem mais le 3ème et 7ème octave de Ré sont remplacés par un arpège de Solm ou un octave de Sol
+    - __🤚 Main droite__ : idem une octave plus haut
 
     </details>
-    
+    <details markdown>
+    <summary markdown>__Thème principal (B + B')__</summary>
+
+    #### B :
+
+    Accords plaqués.
+
+    | ✋ Main Gauche                                      | 🤚 Main droite                                            |
+    |----------------------------------------------------|-----------------------------------------------------------|
+    | Rém - Sol m                                        | [mi] - Fa - La - Fa - Mi                                  |
+    | DoM - FaM                                          | Ré - Do - Sib - Do - Fa                                   |
+    | SibM - FaM                                         | Sib - Do - Ré - Do - Fa                                   |
+    | Descente d'octaves : <br/>Sib - La - Sol - Fa - Mi | En octaves : <br/>Sib - La - Sib - Do - Ré - Do - Ré - Mi |
+
+
+    #### B' :
+
+    - __✋ Main gauche__ : Idem mais les accords sont arpégés au rythme de noires, sauf pour la descente d'octave.
+    - __🤚 Main droite__ : Idem mais joué en octave
+
+    </details>
+    <details markdown>
+    <summary markdown>__Thème principal (C + C')__</summary>
+    #### C :
+
+    Descente d'octaves aux deux mains
+
+    - __✋ Main Gauche__ : Jouée en octave
+    - __🤚 Main droite__ : Jouée en octave
+
+    | ✋ Main Gauche  | 🤚 Main Droite   |
+    |---|---|
+    | Ré   | Ré - Mi - Fa  |
+    |  Sib | Ré - Mi - Fa  |
+    |  Si bécarre | Mi - Ré - La  |
+    |  Sib | La - Fa - Mi  |
+
+    #### C' :
+    - __✋ Main gauche__ : Idem mais les harmonies s'étendent sur 2 mesures au lieu d'une
+    - __🤚 Main droite__ : Les accords sont arpégés sur 8 croches (ex Rém : Ré - La - Fa - Ré - Fa - La - Ré - La)
+
+    | ✋ Main Gauche  | 🤚 Main Droite   |
+    |---|---|
+    | Ré   | Rém |
+    |  Sib | SibM/Ré  |
+    |  Si bécarre | SolM/Ré  |
+    |  Sib | SibM/Ré  |
+
+    </details>
+
+-   :fontawesome-solid-table-cells-large:{ .lg .middle } __Ressources (coming soon)__
+
+    ---
+
+    Coming soon
+
 </div>
 
 
