@@ -3,6 +3,7 @@ nav:
   - 🏡 Home: index.md
   - 📚 Glossaire: glossaire.md
   - 🎹 Morceaux: morceaux/index.md
+  - '# Tags': tags.md
 theme:
   name: material
   language: fr
@@ -44,3 +45,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
+extra:
+  tags:
+    Jeux-vidéos: jv
+    Improvisation: impro

@@ -9,3 +9,8 @@ Si vous désirez apprendre le piano gratuitement, rendez-vous sur la chaîne [tw
 
 - [Le glossaire](glossaire.md)
 - [Les fiches des morceaux](morceaux/index.md)
+
+## Tags
+- À tout moment, vous pouvez cliquer sur un tag pour voir les autres pages qui le mentionnent.
+- La liste de tous les tags disponibles et des pages qui le mentionnent est disponible [ici](tags.md) et dans le menu.
+

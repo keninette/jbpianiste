@@ -27,6 +27,9 @@ Modification d’une note par un dièse (#) ou un bémol (♭).
 On parle d’altération accidentelle lorsque, au sein d’un morceau et donc d’un contexte donné, une note étrangère,
 c’est-à-dire hors de la gamme, apparaît.
 
+## Arpèges
+Procédé qui consiste à jouer successivement plutôt qu'en même temps les notes d'un accord.
+
 ## Consonance et dissonance
 Notions relatives. Consonance et dissonance sont, entre autres, comprises comme « ce qui sonne
 agréablement », et « ce qui sonne désagréablement ».
@@ -68,9 +71,29 @@ des noms : tierce mineure, tierce majeure, quinte juste, quinte diminuée, sixte
 Courte phrase musicale qui peut être répétée à plusieurs endroits et créer ainsi un sentiment de
 familiarité ou de similitude. 
 
-Selon les propos d’[Arnold Schönberg](https://fr.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg), l’inventeur du [dodécaphonisme](https://fr.wikipedia.org/wiki/Dod%C3%A9caphonisme), la
+> Selon les propos d’[Arnold Schönberg](https://fr.wikipedia.org/wiki/Arnold_Sch%C3%B6nberg), l’inventeur du [dodécaphonisme](https://fr.wikipedia.org/wiki/Dod%C3%A9caphonisme), la
 musique est compréhensible lorsqu’elle comporte une part de répétition permettant une certaine
 familiarité, mais aussi lorsqu’elle inclut de la différence pour éviter la monotonie.
+
+## Nuances
+Indiquent l’intensité sonore des notes jouées.
+
+> Les nuances peuvent concerner une note, un accord, une mesure, un motif, ou une phrase musicale
+toute entière. Elles revêtent au moins deux champs d’application :
+>
+- Un champ que l’on dirait objectif : en effet si un compositeur indique que tel accord est joué fortissimo
+ou telle note pianissimo, de quel droit n’appliquerait-on pas la nuance ? Cette nuance fait partie du
+discours musical, et il est attendu de la personne jouant le morceau qu’elle l’exécute conformément à la
+volonté du compositeur. C’est en quelque sorte la capacité technique du musicien qui est en jeu.
+- Un champ que l’on dirait subjectif : les nuances sont indissociables de ce qui relève alors plutôt de la
+capacité d’interprétation attendue d’un musicien. Les nuances sont dès lors soumises à la liberté du
+musicien, de la musicienne.
+
+## Pédale harmonique
+Procédé d’écriture au sein duquel une même note ou un même accord est maintenu ou répété durant
+plusieurs mesures. Le plus souvent, au piano, la pédale est jouée à la basse, tandis que d’autres accords
+joués plus haut viennent s’y superposer.
+
 
 ## Tonalité
 On dit qu’un morceau est joué dans « telle tonalité ». Notion intimement liée à celle de [gamme](#gamme).

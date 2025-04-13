@@ -1,14 +1,12 @@
----
-tags:
-  - tag-demo
----
-
 [🏡 Home](../index.md) > 🎹 Morceaux
 
 # 🎹 Morceaux
 
-## Cours 2024-2025
+## Promo Lena Raine (2024)
 
-- [Cours de découverte](cours-de-decouverte.md)
+### 2024 - 2025
+0. [Cours de découverte](cours-de-decouverte.md)
+1. [Laputa]()
+2. [The other promise (Kingdom Hearts)](the-other-promise.md)
 
 

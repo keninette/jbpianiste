@@ -76,7 +76,7 @@ article p:first-of-type a {
     color: darkgray!important;
 }
 
-/******************** Breadcrumb ********************/
+/******************** Cards ********************/
 .grid.cards li {
     border-left: 3px solid !important;
 }
@@ -109,7 +109,7 @@ article p:first-of-type a {
 
 .grid.cards li:nth-of-type(3) {
     border-left-color: var(--color-yellow) !important;
-    width: fit-content;
+
 }
 
 .grid.cards li:nth-of-type(3) p:first-of-type {
@@ -118,7 +118,7 @@ article p:first-of-type a {
 
 /******************** Nav ********************/
 .md-sidebar:not(.md-sidebar--secondary) {
-    visibility: hidden;
+    display: none;
 }
 
 /******************** Footer ********************/
@@ -127,8 +127,10 @@ article p:first-of-type a {
 }
 
 /******************** Misc ********************/
-article p:not(:first-of-type) a {
+article p:not(:first-of-type) a,
+article ul a {
     color: var(--color-blue);
+    text-decoration: underline;
 }
 
 img {

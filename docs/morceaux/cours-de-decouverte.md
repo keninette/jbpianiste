@@ -1,23 +1,29 @@
 ---
 tags:
-  - improvisation
+  - Improvisation
 ---
 
 [🏡 Home](../index.md) > [🎹 Morceaux](index.md) > 🎹 Cours de découverte
 
 # 🎹 Cours de découverte
 
-Exercices d'improvisation autour des accords du canon de Pachelbel.
+Exercices d'improvisation autour des accords du canon de [Johann Pachelbel](https://fr.wikipedia.org/wiki/Johann_Pachelbel).
 
-## 🎼 Le canon de Pachelbel
+## 🎼 Le morceau
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-music:{ .lg .middle } __Gamme__
+-   :fontawesome-solid-music:{ .lg .middle } __Gamme: Do Majeur__
 
     ---
 
-    **DoM**
+    __Notes__ :
+
+    Do - Ré - Mi - Fa - Sol - La - Si - Do
+
+    __Doigté__ :
+
+    1 - 2 - 3 - 1 - 2 - 3 - 4 - 5
 
 -   :fontawesome-solid-headphones:{ .lg .middle } __Écouter le morceau__
 
@@ -29,9 +35,10 @@ Exercices d'improvisation autour des accords du canon de Pachelbel.
 
     ---
 
-    | DoM | SolM | Lam | Mim |
-    |-----|------|-----|-----|
-    | FaM | DoM | FaM | SolM |
+    |     |      |     |      |
+    |-----|------|-----|------|
+    | DoM | SolM | Lam | Mim  |
+    | FaM | DoM  | FaM | SolM |
 
 </div>
 
