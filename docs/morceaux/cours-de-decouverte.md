@@ -40,7 +40,7 @@ Exercices d'improvisation autour des accords du canon de [Johann Pachelbel](http
     | DoM | SolM | Lam | Mim  |
     | FaM | DoM  | FaM | SolM |
 
--   :fontawesome-solid-table-cells-large:{ .lg .middle } __Ressources (coming soon)__
+-   :fontawesome-solid-file-zipper:{ .lg .middle } __Ressources (coming soon)__
 
     ---
 

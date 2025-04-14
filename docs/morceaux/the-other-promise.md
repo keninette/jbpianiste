@@ -37,7 +37,7 @@ tags:
     <details markdown>
     <summary markdown>__Intro (A + A')__</summary>
     
-    #### A : 
+    #### Partie A : 
 
     | ✋ Main Gauche | 🤚 Main droite    |
     |---------------|----------------|
@@ -50,7 +50,7 @@ tags:
     | Octave de Ré  | Sib - Mi - Ré  |
     | Octave de Ré  | Ré - La - Sol  |
 
-    #### A' : 
+    #### Partie A'
       
     - __✋ Main gauche__ : idem mais le 3ème et 7ème octave de Ré sont remplacés par un arpège de Solm ou un octave de Sol
     - __🤚 Main droite__ : idem une octave plus haut
@@ -59,7 +59,7 @@ tags:
     <details markdown>
     <summary markdown>__Thème principal (B + B')__</summary>
 
-    #### B :
+    #### Partie B
 
     Accords plaqués.
 
@@ -71,7 +71,7 @@ tags:
     | Descente d'octaves : <br/>Sib - La - Sol - Fa - Mi | En octaves : <br/>Sib - La - Sib - Do - Ré - Do - Ré - Mi |
 
 
-    #### B' :
+    #### Partie B'
 
     - __✋ Main gauche__ : Idem mais les accords sont arpégés au rythme de noires, sauf pour la descente d'octave.
     - __🤚 Main droite__ : Idem mais joué en octave
@@ -79,7 +79,8 @@ tags:
     </details>
     <details markdown>
     <summary markdown>__Thème principal (C + C')__</summary>
-    #### C :
+
+    #### Partie C
 
     Descente d'octaves aux deux mains
 
@@ -93,7 +94,8 @@ tags:
     |  Si bécarre | Mi - Ré - La  |
     |  Sib | La - Fa - Mi  |
 
-    #### C' :
+    #### Partie C'
+
     - __✋ Main gauche__ : Idem mais les harmonies s'étendent sur 2 mesures au lieu d'une
     - __🤚 Main droite__ : Les accords sont arpégés sur 8 croches (ex Rém : Ré - La - Fa - Ré - Fa - La - Ré - La)
 
@@ -106,7 +108,7 @@ tags:
 
     </details>
 
--   :fontawesome-solid-table-cells-large:{ .lg .middle } __Ressources (coming soon)__
+-   :fontawesome-solid-file-zipper:{ .lg .middle } __Ressources (coming soon)__
 
     ---
 

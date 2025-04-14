@@ -30,16 +30,40 @@ c’est-à-dire hors de la gamme, apparaît.
 ## Arpèges
 Procédé qui consiste à jouer successivement plutôt qu'en même temps les notes d'un accord.
 
+## Bourdon
+Désigne le fait de maintenir à un ou plusieurs instruments une seule note ou un seul accord. La notion
+de bourdon ressemble beaucoup à celle de [pédale harmonique](#pedale-harmonique).
+
 ## Consonance et dissonance
 Notions relatives. Consonance et dissonance sont, entre autres, comprises comme « ce qui sonne
 agréablement », et « ce qui sonne désagréablement ».
 
 On dira plus précisément en musique que la consonance produit un repos, une résolution, tandis que la dissonance produit une tension.
 
+## Degré
+La notion de degré s'applique principalement aux sept notes de l'échelle diatonique, où la tonique est parfaitement définie. Pour l'échelle chromatique, qui contient 12 notes d'importance égale, la notion de degré a peu d'intérêt.
+C'est la place de la note ou de l'accord dans la gamme.
+
+1. Tonique
+2. Sus-tonique
+3. Médiante
+4. Sous-dominante
+5. Dominante
+6. Sus-dominante
+7. Sensible/sous-tonique
+8. Tonique
+
+Dans la gamme majeure, l'accord de Dominante (V) sert à créer une tension qui appelle à être résolue par l'accord de degré i.
+
 ## Demi-ton
 **Intervalle le plus petit séparant deux notes.**
 
 > Ex : « mi-fa » ou encore « do-do# »
+
+## Drone
+Genre musical minimaliste faisant essentiellement usage de [bourdons](#bourdon) (drones en anglais)
+utilisant des sons, notes et clusters maintenus ou répétés. Il est typiquement caractérisé par de longues
+plages musicales présentant peu de variations harmoniques.
 
 ## Empreinte
 Forme que prend la main pour jouer par exemple un accord, et qui peut être reproduite à plusieurs
@@ -89,11 +113,19 @@ volonté du compositeur. C’est en quelque sorte la capacité technique du musi
 capacité d’interprétation attendue d’un musicien. Les nuances sont dès lors soumises à la liberté du
 musicien, de la musicienne.
 
+## Ostinati
+Motifs se répétant tout au long d’un morceau ou de l’une de ses sections rythmiques et mélodiques afin de mieux l’oublier en quelque sorte. Il donne le
+mot français « obstiné ».
+
 ## Pédale harmonique
 Procédé d’écriture au sein duquel une même note ou un même accord est maintenu ou répété durant
 plusieurs mesures. Le plus souvent, au piano, la pédale est jouée à la basse, tandis que d’autres accords
 joués plus haut viennent s’y superposer.
 
+
+## Rythme harmonique
+Fréquence d’apparition des différents accords. Par exemple des changements d’accords tous
+les quatre temps.
 
 ## Tonalité
 On dit qu’un morceau est joué dans « telle tonalité ». Notion intimement liée à celle de [gamme](#gamme).

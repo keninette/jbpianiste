@@ -3,6 +3,7 @@ nav:
   - 🏡 Home: index.md
   - 📚 Glossaire: glossaire.md
   - 🎹 Morceaux: morceaux/index.md
+  - 🎶 Types de musique: types-musique/index.md
   - '# Tags': tags.md
 theme:
   name: material
@@ -49,3 +50,5 @@ extra:
   tags:
     Jeux-vidéos: jv
     Improvisation: impro
+    Films: film
+    Musique répétitive: repet
