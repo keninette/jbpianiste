@@ -44,6 +44,7 @@ tags:
 
     - L'improvisation doit se faire uniquement dans la gamme mineure naturelle, pas d'utilisation de la sensible.
     - Morceau à 3 temps.
+    - Utilisation des premiers [procédés d'accompagnement](../procedes-accompagnement.md)
 
     <details markdown>
     <summary markdown>__Intro__</summary>
@@ -94,5 +95,6 @@ tags:
 - [Rythme harmonique](../glossaire.md#rythme-harmonique)
 - [Bourdon](../glossaire.md#bourdon)
 - [Drone](../glossaire.md#drone)
+- [Procédés d'accompagnement](../procedes-accompagnement.md)
 
 

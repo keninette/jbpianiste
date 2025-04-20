@@ -4,6 +4,7 @@ nav:
   - 📚 Glossaire: glossaire.md
   - 🎹 Morceaux: morceaux/index.md
   - 🎶 Types de musique: types-musique/index.md
+  - 🎶 Procédés d'accompagnement: procedes-accompagnement.md
   - '# Tags': tags.md
 theme:
   name: material
