@@ -9,6 +9,8 @@ Si vous désirez apprendre le piano gratuitement, rendez-vous sur la chaîne [tw
 
 - [Le glossaire](glossaire.md)
 - [Les fiches des morceaux](morceaux/index.md)
+- [Les procédés d'accompagnement](procedes-accompagnement.md)
+- [Les types de musiques](./types-musique/index.md)
 
 ## Tags
 - À tout moment, vous pouvez cliquer sur un tag pour voir les autres pages qui le mentionnent.

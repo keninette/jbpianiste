@@ -9,6 +9,6 @@
 1. [Laputa (tbd)]()
 2. [The other promise (Kingdom Hearts)](the-other-promise.md)
 3. [Goth girl (tbd)]()
-4. [First step (wip)](first-step.md)
+4. [First step (en cours)](first-step.md)
 
 

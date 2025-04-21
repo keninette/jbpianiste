@@ -4,35 +4,70 @@
 
 ## Accords plaqués
 
-### A1
-Joués à l'état fondamental, avec ou sans retournements. joués chaque temps.
+### État fondamental
+Joués à l'état fondamental, avec ou sans retournements.
 
-> Ex : [Fa - La - Do] 3 x 1 noire
+#### A1 - Noires
 
-### A2
-Joués à l'état fondamental, mais sans la tierce, joués chaque temps.
+#### C1 - Croches
+![C1](./assets/img/procedes-accompagnement/c1.png)
 
-> Ex : [Fa - Do] 3 x 1 noire
+### Sans la tierce
+Joués à l'état fondamental, mais sans la tierce.
 
-### A3
-Joués à l'état fondamental, mais sans la tierce et on double la fondamentale à l'octave, joués chaque temps.
+#### A2 - Noires
+![A2](./assets/img/procedes-accompagnement/a2.png)
 
-> Ex : [Fa - Do - Fa] 3 x 1 noire
+#### C2 - Croches
+![C2](./assets/img/procedes-accompagnement/c2.png)
 
-### A4
+### Fondamentale doublée
+Joués à l'état fondamental, mais sans la tierce et on double la fondamentale à l'octave.
+
+#### A3 - Noires
+![A3](./assets/img/procedes-accompagnement/a3.png)
+
+#### C3 - Croches
+![C3](./assets/img/procedes-accompagnement/c3.png)
+
+### Avec déplacement
 Effectuer un déplacement, en jouant des octaves de la tonique dans le registre très grave sur le premier temps, et en venant jouer l’accord à l’état fondamental une ou deux octaves.
 plus haut.
 
-> Ex : [Fa - Fa] 1 noire, dans les très graves puis [Fa - La - Do] 2 x 1 noire, 1 ou 2 octaves plus haut
+#### A4 - Avec déplacement
+![A4](./assets/img/procedes-accompagnement/a4.png)
+
+#### C4 - Avec déplacement
+![C4](./assets/img/procedes-accompagnement/c4.png)
 
 ## Arpèges main gauche
 
-### B1
-Basé sur A1, joué à l'état fondamental, avec ou sans retournements, une note par temps.
+### État fondamental
+Joués à l'état fondamental, avec ou sans retournements.
 
-> Ex : Fa 1 noire, La 1 noire, Do 1 noire
+#### B1 - Noires
+![B1](./assets/img/procedes-accompagnement/b1.png)
 
-### B3
-Basé sur A3, on omet la tierce et on double la fondamentale.
+### Fondamentale doublée
+Joués à l'état fondamental, mais sans la tierce et on double la fondamentale à l'octave.
 
-> Ex : Fa 1 noire, Do 1 noire, Fa
+#### B3 - Noires
+![B3](./assets/img/procedes-accompagnement/b3.png)
+
+#### D3 - Croches
+![D3](./assets/img/procedes-accompagnement/d3.png)
+
+#### E3 - Doubles croches
+![E3](./assets/img/procedes-accompagnement/e3.png)
+
+### État fondamental et fondamentale doublée
+Joués à l'état fondamental, mais on double tout de même la fondamentale à l'octave.
+
+#### D5 - Croches
+![D5](./assets/img/procedes-accompagnement/d5.png)
+
+#### E6 - Doubles croches, mouvement ascendant
+![e6](./assets/img/procedes-accompagnement/e6.png)
+
+#### E7 - Doubles croches sur 2 octaves
+![e7](./assets/img/procedes-accompagnement/e7.png)
