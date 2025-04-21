@@ -17,6 +17,12 @@ mélancolique, que l’accord majeur.
 
 > Do m : Do (do# -ré) - Mi ♭ (mi♮ - fa - fa#) - Sol
 
+### Accords diatoniques
+Désignent les accords générés à partir d’une gamme donnée.
+
+### Accord étranger
+Accord dont l’une ou plusieurs des notes le constituant sont étrangères à la gamme.
+
 ## Altération
 Modification d’une note par un dièse (#) ou un bémol (♭). 
 
@@ -41,8 +47,8 @@ agréablement », et « ce qui sonne désagréablement ».
 On dira plus précisément en musique que la consonance produit un repos, une résolution, tandis que la dissonance produit une tension.
 
 ## Degré
-La notion de degré s'applique principalement aux sept notes de l'échelle diatonique, où la tonique est parfaitement définie. Pour l'échelle chromatique, qui contient 12 notes d'importance égale, la notion de degré a peu d'intérêt.
-C'est la place de la note ou de l'accord dans la gamme.
+Place des notes et accords de la tonalité au sein de la gamme et permettent notamment d’attribuer des
+fonctions aux accords. Les degrés sont toujours notés en chiffres romains, minuscules ou majuscules.
 
 1. Tonique
 2. Sus-tonique
@@ -69,6 +75,13 @@ plages musicales présentant peu de variations harmoniques.
 Forme que prend la main pour jouer par exemple un accord, et qui peut être reproduite à plusieurs
 endroits du clavier sans déplacer l’espace entre les doigts.
 
+## Enharmonie
+Désigne un seul et même son mais appelé différemment.
+
+> Par exemple do# et ré♭ désignent le même son mais selon deux appellations différentes, pareil pour « do » que l’on pourrait également appeler « si# ».
+> 
+> L’idée d’enharmonie est nécessaire pour maintenir la cohérence de la théorie harmonique, puisque les accords sont toujours constitués par les mêmes noms de notes.
+
 ## Gamme
 Série de notes suivant un principe d’organisation, et constituant une tonalité.
 
@@ -76,6 +89,27 @@ Série de notes suivant un principe d’organisation, et constituant une tonalit
 l’ordre des notes, mais aussi parce qu’elle est visuellement la plus évidente à retrouver sur le clavier (elle
 est constituée de toutes les notes blanches, sans aucune touche noire) : la gamme de Do Majeur. Sur le
 clavier le « do » se situe toujours avant le groupe de deux touches noires
+
+### Gamme majeure
+#### Schéma
+ton - ton - 1/2 ton - ton - ton - ton - 1/2 ton
+
+#### Accords
+Les accords d'une gamme majeure suivent toujours le schéma suivant :
+
+- L’accord du I est toujours majeur.
+- L’accord du ii est toujours mineur.
+- L’accord du iii est toujours mineur.
+- L’accord du IV est toujours majeur.
+- L’accord du V est toujours majeur.
+- L’accord du vi est toujours mineur.
+- L’accord du viiø est toujours demi-diminué
+
+Les numéros associés aux accords sont appelés des [degrés](#degre).
+
+### Gamme mineure naturelle
+#### Schéma
+ton / demi-ton / ton / ton / demi-ton / ton / ton
 
 ### Gammes symétriques & parallèles
 C'est le fait de jouer une gamme avec les deux mains en même temps : soit les deux mains qui descendent ou montent en même temps (en parallèle), ou
@@ -113,6 +147,17 @@ volonté du compositeur. C’est en quelque sorte la capacité technique du musi
 capacité d’interprétation attendue d’un musicien. Les nuances sont dès lors soumises à la liberté du
 musicien, de la musicienne.
 
+## Ordre des tierces
+Ordre de notes obtenu en sautant une note entre chaque :
+
+- Accord de __Do__ : Do - Mi - Sol
+- Accord de __Ré__ : Ré - Fa- La
+- Accord de __Mi__ : Mi -Sol - Si
+- Accord de __Fa__ : Fa - La - Do
+- Accord de __Sol__ : Sol - Si - Ré
+- Accord de __La__ : La - Do - Mi
+- Accord de __Si__ : Si - Ré - Fa
+
 ## Ostinati
 Motifs se répétant tout au long d’un morceau ou de l’une de ses sections rythmiques et mélodiques afin de mieux l’oublier en quelque sorte. Il donne le
 mot français « obstiné ».
@@ -138,5 +183,6 @@ vous ne disposez pas de tous les feutres !
 Plus précisément, établir une tonalité, c’est décider parmi plusieurs sons celui qui sera central, qui
 constituera en quelque sorte le « centre de gravité » autour duquel les autres sons tourneront.
 
-
+## Transposition
+Pratique consistant à jouer un morceau dans une gamme autre que sa tonalité originale.
 
