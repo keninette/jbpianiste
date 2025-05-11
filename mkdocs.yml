@@ -1,4 +1,4 @@
-site_name: Cours de JBPianiste (Non officiel)
+site_name: Ressources & cours de piano
 nav:
   - 🏡 Home: index.md
   - 📚 Glossaire: glossaire.md
@@ -12,7 +12,7 @@ theme:
   font:
     text: Inconsolata
     code: Inconsolata
-  logo: assets/img/logo.png
+  logo: assets/img/logo.jpeg
   favicon: assets/img/logo.ico
   palette:
     scheme: slate
@@ -29,7 +29,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.expand
-extra_css: [assets/jbpianiste.css]
+extra_css: [assets/piano.css]
 plugins:
   - offline
   - search

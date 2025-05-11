@@ -44,7 +44,7 @@ or on windows (if not in path)
 
 `py -m mkdocs gh-deploy`
 
-The doc is available at https://keninette.github.io/jbpianiste/ after a short period.
+The doc is available at https://keninette.github.io/piano/ after a short period.
 
 ### Build the doc locally (without deploying)
 `mkdocs build --site-dir public`

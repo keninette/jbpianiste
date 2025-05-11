@@ -1,18 +1,18 @@
 # 🏡 Home
 
-## Un mot sur ce site
-Ce site est un site non officiel créé par et pour les élèves de JBP pour les aider dans leur apprentissage.
+![cat.gif](assets/img/cat.gif)
 
-Si vous désirez apprendre le piano gratuitement, rendez-vous sur la chaîne [twitch de JBPianiste](https://www.twitch.tv/jbpianiste) où vous trouverez toutes les informations nécessaires. 
+## Todo
+
+- Mettre les accords des gammes dans les morceaux
+- Mettre les degrés des accords utilisés dans le morceau
+- Ajouter le rythme (4/4)
 
 ## Quelques liens utiles
 
 - [Le glossaire](glossaire.md)
 - [Les fiches des morceaux](morceaux/index.md)
 - [Les procédés d'accompagnement](procedes-accompagnement.md)
+- [Idées pour impro](idees-impro.md)
 - [Les types de musiques](./types-musique/index.md)
-
-## Tags
-- À tout moment, vous pouvez cliquer sur un tag pour voir les autres pages qui le mentionnent.
-- La liste de tous les tags disponibles et des pages qui le mentionnent est disponible [ici](tags.md) et dans le menu.
 
